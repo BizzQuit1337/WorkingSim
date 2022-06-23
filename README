@@ -1,0 +1,13 @@
+#### Technically working random life sim ####
+#Author: Albert Brown
+
+## starts with a number of organisms and food you can decide in the source code
+
+each organism has stats dictated by its colored cells and will live for around 
+20 seconds depending on its stats and if it eats enough food it passes its 
+composition onto the next generation.
+
+You can make custom creatures. You can decide there stats via colors but there other starts
+like health and movement are set to defaults 
+
+theres are a lot of bugs but they just add to the evolution of the creatures XD
